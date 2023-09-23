@@ -30,7 +30,9 @@ this repo i use for list my Project
 
 ( This web I use vite for coding landing page )
 
-- [Link Github and Preview Web Below](https://github.com/UmmarinKasampong/web-template-new-3)
+
+- [Link Github and Preview Web Below](https://github.com/UmmarinKasampong/web-template-2)
+
 
 
 
@@ -41,7 +43,7 @@ this repo i use for list my Project
 
 - [Link Github and Preview Web Below](https://github.com/UmmarinKasampong/web-template-1)
 
-- [Link Github and Preview Web Below](https://github.com/UmmarinKasampong/web-template-2)
+- [Link Github and Preview Web Below](https://github.com/UmmarinKasampong/web-template-new-3)
 
 - [Link Github and Preview Web Below](https://github.com/UmmarinKasampong/web-template-4)
 
